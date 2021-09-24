@@ -12,10 +12,11 @@ The following **required** functionality is completed:
 
 * [x] User can **view a list of movies**
 * [x] User can **scroll** through movies
+* [ ] User can **click on movie item** and **view movie trailer**
 
 The following **optional** features are implemented:
 
-* [ ] Different layout based on orientaion of device
+* [x] Different layout based on orientaion of device
 
 The following **additional** features are implemented:
 
